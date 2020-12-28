@@ -3,7 +3,7 @@ var food_object,feed_but,add_butvar, food_image;
 var g;
 function preload()
 {
-  dog=loadImage("dog.png")
+  dog=loadImage("dog(1).png")
   happydog=loadImage("happy dog.png")
    food_image=loadImage("Milk.png")//load images here
 }
