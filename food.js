@@ -66,5 +66,5 @@ function readStock(data){
      x=x+1
  }
  database.ref('/').update({
- Food=x
+ Food:x
  })
